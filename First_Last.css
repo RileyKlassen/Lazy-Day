@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a {
+	color: black;
+	background-color: #16DB65;
+	padding: 15px;
+	font-family: futura, helvetica, sans-serif;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	text-decoration: none;
+}
+body {
+	background-color: black;
+	margin: 0;
+}
+h1 {
+	color: #16DB65;
+	font-size: 60px;
+	width: 800px;
+	border-bottom: 2px solid #003844;
+	line-height: 1.1;
+	text-align: left;
+	display: block;
+	margin-right: 50px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 30px 0px 30px 30px;
+	border: 2px dotted black;
+	font-family: futura, helvetica, sans-serif;
+}
+section.head {
+	background-color: black;
+	margin-top: 0;
+	margin-bottom: 0;
+	border-bottom: 3px solid #16DB65;
+}
+img {
+	display: inline;
+	border: 0px dotted #16DB65;
+}
+section.whitestripe {
+	background-color: white;
+	margin: 0px;
+}
+section.image {
+	background-color: white;
+	width: 320px;
+}
+p {
+	color: white;
+	width: 550px;
+	margin: 0px auto 15px 30px;
+	border: 2px dotted black;
+	font-family: garamond, georgia, times new roman, serif;
+	padding: 20px 0 20px 0;
+	hyphens: none;
+}
+section.body {
+	border-top: 3px solid #16DB65;
+	background-color: black;
+	padding-bottom: 200px;
+}
+a:hover {
+	color: #16DB65;
+	background-color: black;
+	border: 1px dashed white;
+}

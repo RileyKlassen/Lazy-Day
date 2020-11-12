@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*typography and layout*/
+h1 {
+	font-family: futura, helvetica, sans-serif;
+	font-size: 45px;
+	width: 480px;
+	margin: 20px auto;
+	padding: 10px;
+	display: block;
+	background-color: black;
+	color: #29A0F0;
+}
+section.illustration {
+	width: 480px;
+	margin: 0 auto;
+	border-bottom: 2px dotted black;
+}
+p {
+	width: 480px;
+	margin: 10px auto;
+	padding: 0px;
+	font-family: garamond, georgia, times new roman, serif;
+	font-size: 18px;
+}
+section.options {
+	width: 480px;
+	margin: 20px auto 20px;
+	content-align: center;
+}
+a {
+	text-decoration: none;
+	width: 237px;
+	display: inline-block;
+	background-color: #29A0F0;
+	text-align: center;
+	padding: 15px 0 15px 0;
+	font-family: futura, helvetica, sans-serif;
+	color: black;
+}
+a:hover {
+	background-color: white;
+	color: #29A0F0;
+	border: 2px dotted #29A0F0;
+	width: 232px;
+}
+body {
+	border: 3px dashed #29A0F0;
+	width: 600px;
+	margin: 30px auto;
+}
