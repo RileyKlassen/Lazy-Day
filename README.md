@@ -1,1 +1,1 @@
-# Lazy-Day
+# Lazy-Day.github.io
