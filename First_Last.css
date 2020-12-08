@@ -51,7 +51,7 @@ section.image {
 p {
 	color: white;
 	width: 550px;
-	margin: 0px auto 15px 30px;
+	margin: 0px auto 0px 30px;
 	border: 2px dotted black;
 	font-family: garamond, georgia, times new roman, serif;
 	padding: 20px 0 20px 0;
@@ -66,4 +66,17 @@ a:hover {
 	color: #16DB65;
 	background-color: black;
 	border: 1px dashed white;
+}
+button {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+#plus {
+	margin-left: 10px;
+}
+p.textadjust{
+	display: inline-block;
+	width: 158px;
 }

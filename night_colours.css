@@ -53,4 +53,22 @@ section.all {
 }
 body {
 	background-color: black;
+	margin-top: 600px;
+}
+button {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+#plus {
+	margin-left: 10px;
+}
+p.textadjust{
+	display: inline-block;
+	width: 158px;
+	margin: 10px auto;	
+	padding: 0px;
+	font-family: garamond, georgia, times new roman, serif;
+	font-size: 18px;
 }

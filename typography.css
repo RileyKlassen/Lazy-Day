@@ -48,5 +48,22 @@ a:hover {
 body {
 	border: 3px dashed #29A0F0;
 	width: 600px;
-	margin: 30px auto;
+	margin: 1000px auto 0px auto;
+}
+button {
+	width: 30px;
+	height: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+}
+#plus {
+	margin-left: 10px;
+}
+p.textadjust{
+	display: inline-block;
+	width: 158px;
+	margin: 10px auto;
+	padding: 0px;
+	font-family: garamond, georgia, times new roman, serif;
+	font-size: 18px;
 }
